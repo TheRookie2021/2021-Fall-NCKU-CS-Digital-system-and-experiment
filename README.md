@@ -29,11 +29,6 @@ Digital system and experiment, NCKU, CSIE, 110-1
 
 [lab10](https://www.notion.so/lab10-132a513d25504ba49a2a80e9a55e59e3)
 
-[](https://www.notion.so/3c179adc2dfe42d485536bc836eb44e8)
+[checkkeypad](https://www.notion.so/3c179adc2dfe42d485536bc836eb44e8)
 
-[
-
-Key Pad
-](https://www.notion.so/Key-Pad-33faefd4053d440e85a9de9b7be6993e)
-
-[](https://www.notion.so/0d2f72d73c3a4909b238f3b5e9c60918)
+[Key Pad](https://www.notion.so/Key-Pad-33faefd4053d440e85a9de9b7be6993e)
